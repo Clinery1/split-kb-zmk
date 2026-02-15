@@ -18,3 +18,9 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+
+include:
+  - board: seeeduino_xiao_ble
+    shield: clinery_split_v2_5_left
+  - board: seeeduino_xiao_ble
+    shield: clinery_split_v2_5_right
