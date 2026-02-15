@@ -1,13 +1,5 @@
 name: zmk-keyboard-clinery-split-v2.5
 build:
-  # Folder containing a "CMakeLists.txt" (. = root)
-  cmake: .
-  # Kconfig filepath
-  kconfig: boards/shields/clinery-split-v2.4/Kconfig
   settings:
     # Folder containing a "boards" folder (. = root)
     board_root: .
-    # Folder containing a "dts" folder (. = root)
-    dts_root: .
-    # Folder containing a "snippets" folder (. = root)
-    snippet_root:  .
