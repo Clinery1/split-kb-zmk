@@ -47,7 +47,7 @@
             bindings = <
                             &kp CAPS    &kp ENTER    &kp BSPC     &kp DELETE     &kp KP_NUM   &kp ESCAPE   &kp SPACE    &kp TAB
                 &kp Q       &kp D       &kp R        &kp W        &kp B          &kp J        &kp F        &kp U        &kp P       &kp SQT
-                &mt LGUI A  &mt LALT S  &mt LCTRL H  &mt LSHFT T  &kp G          &kp Y        &mt RSHFT N  &kp RCTRL E  &kp RALT O  &kp RGUI I
+                &mt LGUI A  &mt LALT S  &mt LCTRL H  &mt LSHFT T  &kp G          &kp Y        &mt RSHFT N  &mt RCTRL E  &mt RALT O  &mt RGUI I
                 &kp Z       &kp X       &kp M        &kp          &kp V          &kp K        &kp L        &kp COMMA    &kp DOT     &kp SLASH
                             &td0        &lt 1 ESCAPE &lt 2 SPACE  &lt 3 TAB      &lt 4 ENTER  &lt 5 BSPC   &lt 6 DELETE &td1
             >;
